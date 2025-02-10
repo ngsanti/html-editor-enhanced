@@ -1872,7 +1872,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                               style: TextStyle(
                                                   color: Theme.of(context)
                                                       .textTheme
-                                                      .bodyText1
+                                                      .titleMedium
                                                       ?.color)),
                                         ),
                                       ],
@@ -1986,7 +1986,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                                 style: TextStyle(
                                                     color: Theme.of(context)
                                                         .textTheme
-                                                        .bodyText1
+                                                        .titleMedium
                                                         ?.color)),
                                           ),
                                           suffixIcon: result != null
@@ -2146,7 +2146,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                               style: TextStyle(
                                                   color: Theme.of(context)
                                                       .textTheme
-                                                      .bodyText1
+                                                      .titleMedium
                                                       ?.color)),
                                         ),
                                         suffixIcon: result != null
@@ -2298,7 +2298,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                               style: TextStyle(
                                                   color: Theme.of(context)
                                                       .textTheme
-                                                      .bodyText1
+                                                      .titleMedium
                                                       ?.color)),
                                         ),
                                         suffixIcon: result != null
@@ -2450,7 +2450,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                               style: TextStyle(
                                                   color: Theme.of(context)
                                                       .textTheme
-                                                      .bodyText1
+                                                      .titleMedium
                                                       ?.color)),
                                         ),
                                         suffixIcon: result != null
